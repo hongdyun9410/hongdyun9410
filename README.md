@@ -23,6 +23,6 @@
 <br>
 ![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?&style=for-the-badge&logo=Oracle&logoColor=white)
 
-
+<!--파이썬 추가예정 -->
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dkwntbvj)](https://solved.ac/myoungji)
