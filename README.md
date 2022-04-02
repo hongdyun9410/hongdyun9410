@@ -30,6 +30,5 @@
 <img alt="mySql" src ="https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
 
 
-<!--파이썬 추가예정 -->
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dkwntbvj)](https://solved.ac/myoungji)
